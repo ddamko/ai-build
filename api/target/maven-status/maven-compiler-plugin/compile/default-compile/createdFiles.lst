@@ -1,0 +1,3 @@
+com\bovinegenetics\customerportal\config\SecurityConfig.class
+com\bovinegenetics\customerportal\controller\HealthController.class
+com\bovinegenetics\customerportal\CustomerPortalApplication.class
